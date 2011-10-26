@@ -1,0 +1,3 @@
+Cambios en un archivo nuevo
+
+Y un cambio sin commit
